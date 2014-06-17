@@ -6,5 +6,5 @@ using [http://github.com/mneuhaus/SublimeFileTemplates](http://github.com/mneuha
 
 ## Installation
 
-1) install [http://github.com/mneuhaus/SublimeFileTemplates](http://github.com/mneuhaus/SublimeFileTemplates)
-2) put file into Home/Library/Application Support/Sublime Text 2/Packages/FileTemplates
+- install [http://github.com/mneuhaus/SublimeFileTemplates](http://github.com/mneuhaus/SublimeFileTemplates)
+- put file into Home/Library/Application Support/Sublime Text 2/Packages/FileTemplates
